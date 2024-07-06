@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "sketch": "fishtank_ato_and_tempmonitor/fishtank_ato_and_tempmonitor.ino"
+}
